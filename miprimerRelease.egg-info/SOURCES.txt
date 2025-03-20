@@ -1,0 +1,7 @@
+README.md
+setup.py
+miprimerRelease/__init__.py
+miprimerRelease.egg-info/PKG-INFO
+miprimerRelease.egg-info/SOURCES.txt
+miprimerRelease.egg-info/dependency_links.txt
+miprimerRelease.egg-info/top_level.txt
